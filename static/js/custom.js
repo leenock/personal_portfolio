@@ -200,8 +200,8 @@
                     speed: 200,
                     loop: true,
                     strings: [
-                        'Full-stack Developer',
-                        'UX/UI Designer',
+                        'Front-end & Backend Developer',
+                        'AI Enthusiast',
                         'Freelancer'
                     ],
                     breakLines: false
