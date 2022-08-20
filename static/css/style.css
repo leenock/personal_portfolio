@@ -1,9 +1,9 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
 
-Project:    Sergio Personal Portfolio
+Project:    Enoch Personal Portfolio
 Version:    1.0
-Primary use:    pxdraft
+Primary use:    portfolio
 -------------------------------------------------------------------*/
 /*
 ) Base
@@ -1865,6 +1865,12 @@ mark {
 @media (max-width: 767px) {
   .google-map .embed-responsive-21by9:before {
     padding-top: 55%;
+  }
+}
+
+@media (max-width:629px) {
+  div#optionalstuff {
+    display: none;
   }
 }
 
