@@ -201,7 +201,7 @@
                     loop: true,
                     strings: [
                         'Front-end & Backend Developer',
-                        'AI Enthusiast',
+                        'Data-driven Artificial Intelligence Engineer ',
                         'Freelancer'
                     ],
                     breakLines: false
