@@ -200,9 +200,9 @@
                     speed: 200,
                     loop: true,
                     strings: [
-                        'Front-end & Backend Developer',
-                        'Data-driven Artificial Intelligence Engineer ',
-                        'Freelancer'
+                        'AI Engineer ',
+                        'IT consulting services'
+                      
                     ],
                     breakLines: false
                 });
